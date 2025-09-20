@@ -4,8 +4,13 @@
     cursor: pointer;
 }
 
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
 @media (max-width: 800px) {
-    .root svg {
+    .logo {
         width: 90px;
         height: 16.67px;
     }
