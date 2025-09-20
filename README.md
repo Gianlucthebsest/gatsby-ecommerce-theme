@@ -14,6 +14,7 @@ Take a look at the screenshot below or preview the live site here: https://gatsb
 
 ## Table of Contents:
 
+- [🤖 What Can Copilot Do For You?](#what-can-copilot-do-for-you)
 - [Quick Steps + Deploy Options](#quick-setup--deploy-option)
   - [Cloning + Installing Packages](#cloning--installing-packages)
 - [Deploying](#deploying)
@@ -24,6 +25,20 @@ Take a look at the screenshot below or preview the live site here: https://gatsb
   - [Included Default Testing](#included-default-testing)
   - [Removing Renovate](#removing-renovate)
 - [Next Steps with This Theme](#next-steps-with-this-theme)
+
+## 🤖 What Can Copilot Do For You?
+
+**Need help with this theme?** I'm your GitHub Copilot Coding Agent, and I can assist you with:
+
+- 🚀 **Development**: Create components, pages, and features
+- 🛠 **Integrations**: Connect e-commerce platforms, payment systems, and APIs  
+- 🎨 **Customization**: Update styling, branding, and layouts
+- 🔧 **Technical Setup**: Configure builds, testing, and deployment
+- 🔍 **Debugging**: Fix issues and optimize performance
+
+📖 **[View Complete Capabilities Guide →](./COPILOT_CAPABILITIES.md)**
+
+*Just ask me anything - from simple styling changes to complex e-commerce integrations!*
 
 ## Quick Setup + Deploy Option
 
